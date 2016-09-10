@@ -1,5 +1,5 @@
-# discographer
-Chart your way through your iTunes music library. This python application reads in your iTunes library file and checks against Spotify to see which albums you're missing. This is based off (samrayner/discographer)[https://github.com/samrayner/discographer] with some major differences (which couldn't be done that well on a client based website). 
+# trouvaille
+Searches through your iTunes music library finding those albums that you're missing. This is a python application based off (samrayner/discographer)[https://github.com/samrayner/discographer] with some major differences (which couldn't be done that well on a client based website). 
 
 The design goals of the application are going to be:
 
